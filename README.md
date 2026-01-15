@@ -1,2 +1,3 @@
 # Iocoin
 Iocoin
+Icoin
